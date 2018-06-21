@@ -1,0 +1,32 @@
+html, body {
+    height: 100%;
+    font-size: 12pt;
+    background: skyblue;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#navbar {
+    background-color: steelblue;
+}
+
+#hi {
+    padding: 10px;
+    max-width: 60%;
+    margin: 10px auto;
+    text-align: center;
+}
+
+#hi h1 {
+    margin-bottom: 10px;
+    line-height: 100%;
+}
+
+#hi p {
+    margin-bottom: 10px;
+}
+
+#landingCards {
+    margin: 40px auto;
+    background-color: none;
+}
